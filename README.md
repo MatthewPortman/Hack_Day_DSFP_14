@@ -2,3 +2,5 @@
 From DSFP Session 14
 
 This is a machine learning framework to simulate observations of spiral galaxies using an autoencoder built during the hack day for DSFP Session 14.
+
+Written in collaboration with [Amir Kazemi ](https://github.com/amirkazemim)
